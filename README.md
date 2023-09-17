@@ -10,7 +10,7 @@ Arbitrum Bruteforce Node.js script that uses the cluster module to create multip
 4. Run npm install to install the required dependencies.
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-[https://www.buymeacoffee.com/CorvusCodex/e/142988](https://www.buymeacoffee.com/CorvusCodex/e/147806?from_page=home)
+https://www.buymeacoffee.com/CorvusCodex/e/168093
 
 Keep in mind that a Windows app won’t speed up searching or guarantee success.
 
